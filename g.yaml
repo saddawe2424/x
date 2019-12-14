@@ -1,0 +1,19 @@
+  
+swagger: "2.0"
+info: 
+  title: "Swagger Sample App>"
+  description: |
+    This is a sample server Petstore server.  You can find out more about
+    Swagger at [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
+    For this sample, you can use the api key `special-key` to test the authorization
+    filters.
+    <img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==" alt="Red dot" onload="" />
+  termsOfService: "https://google.com"
+  contact: 
+    name: "API Support>"
+    url: "https://google.com"
+    email: "javascript:alert(document.cookie)"
+  license:
+    name: "Apache 2.0"
+    url: "http://www.apache.org/licenses/LICENSE-2.0.html"
+version: "1.0.1"
